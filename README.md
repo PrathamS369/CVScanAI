@@ -47,14 +47,14 @@ npm install
 ```
 
 #### Dependencies Installed:
-- `react`
-- `react-dom`
-- `react-dropzone`
-- `axios`
-- `tailwindcss`
-- `postcss`
-- `autoprefixer`
-- `vite`
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-dropzone": "^14.2.3",
+    "axios": "^1.6.2",
+    "tailwindcss": "^3.3.3",
+    "postcss": "^8.4.31",
+    "autoprefixer": "^10.4.16",
+    "vite": "^4.4.5"
 
 ### Backend Setup
 
